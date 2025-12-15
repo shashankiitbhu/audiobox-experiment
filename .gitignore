@@ -1,0 +1,23 @@
+# Audio files (download on cloud instead)
+audio/*. wav
+audio/*.mp3
+audio/*.ogg
+
+audio/
+
+# Models
+*. pth
+*.pt
+
+# Python
+__pycache__/
+*. pyc
+venv/
+*.egg-info/
+
+# Data (will generate on cloud)
+data/audio_labels.csv
+
+# IDE
+.vscode/
+.DS_Store
