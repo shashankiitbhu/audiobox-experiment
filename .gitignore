@@ -16,7 +16,6 @@ venv/
 *.egg-info/
 
 # Data (will generate on cloud)
-data/audio_labels.csv
 
 # IDE
 .vscode/
